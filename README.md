@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre: Jorge Otilio Salazar Diaz
+- Matrícula: s25018122
+- Fecha: 23/10/25
 
 ## 🎯 Objetivos
 

@@ -40,7 +40,7 @@ int main(){
     cout << "La suma es: " << suma << endl; 
     cout << "Promedio: " << promedio << endl; 
     cout << "Producto: " << producto << endl; 
-    cout << "Valor mas pequeÃ±o: " << menor << endl; 
+    cout << "Valor mas pequeño: " << menor << endl; 
     cout << "Valor mas grande: " << mayor << endl; 
    
     return 0;
